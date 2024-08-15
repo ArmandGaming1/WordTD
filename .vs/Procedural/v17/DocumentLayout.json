@@ -3,7 +3,15 @@
   "WorkspaceRootPath": "D:\\PROCEDURAL\\Procedural\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FE2BCE44-FB3C-C091-A455-C0FF5677DA42}|Assembly-CSharp.csproj|d:\\procedural\\procedural\\assets\\scripts\\terraingenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FE2BCE44-FB3C-C091-A455-C0FF5677DA42}|Assembly-CSharp.csproj|D:\\PROCEDURAL\\Procedural\\assets\\scripts\\pathgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE2BCE44-FB3C-C091-A455-C0FF5677DA42}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pathgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE2BCE44-FB3C-C091-A455-C0FF5677DA42}|Assembly-CSharp.csproj|d:\\procedural\\procedural\\assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE2BCE44-FB3C-C091-A455-C0FF5677DA42}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE2BCE44-FB3C-C091-A455-C0FF5677DA42}|Assembly-CSharp.csproj|D:\\PROCEDURAL\\Procedural\\assets\\scripts\\terraingenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE2BCE44-FB3C-C091-A455-C0FF5677DA42}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\terraingenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,11 +22,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "D:\\PROCEDURAL\\Procedural\\Assets\\Scripts\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy.cs",
+              "ToolTip": "D:\\PROCEDURAL\\Procedural\\Assets\\Scripts\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T00:49:35.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "PathGenerator.cs",
+              "DocumentMoniker": "D:\\PROCEDURAL\\Procedural\\Assets\\Scripts\\PathGenerator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PathGenerator.cs",
+              "ToolTip": "D:\\PROCEDURAL\\Procedural\\Assets\\Scripts\\PathGenerator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PathGenerator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T00:46:43.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "TerrainGenerator.cs",
               "DocumentMoniker": "D:\\PROCEDURAL\\Procedural\\Assets\\Scripts\\TerrainGenerator.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\TerrainGenerator.cs",
@@ -26,8 +60,7 @@
               "RelativeToolTip": "Assets\\Scripts\\TerrainGenerator.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAAAkwLsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-14T11:23:40.18Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-14T11:23:40.18Z"
             }
           ]
         }
